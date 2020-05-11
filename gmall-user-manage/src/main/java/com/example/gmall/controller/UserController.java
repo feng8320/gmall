@@ -18,4 +18,5 @@ public class UserController {
     public List<UserInfo> findAll(){
         return userInfoService.findAll();
     }
+
 }
